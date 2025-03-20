@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harishihan!  
+# 👋 I'm Harishihan!  
 
 I'm an aspiring developer with a passion for building digital experiences and solving real-world problems through code. I believe technology has the power to transform lives, and I’m excited to be part of that journey! 🚀  
 
