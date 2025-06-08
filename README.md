@@ -106,11 +106,7 @@ To combine fullstack development with cybersecurity, and build secure, modern so
 ---
 
 <!--<p align="center">✨ Thank you for visiting my profile! I’m open to internship opportunities in Software Development, Web, or Mobile. Let’s connect! ✨</p> -->
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=footer">
 
 
 
