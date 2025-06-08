@@ -1,95 +1,111 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlignY=37">
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&reversal=false&textBg=false">
-</p>-->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient">
+<h3 align="right">Hey Fellas,
+this is Harry
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&duration=4500&pause=&center=true&vCenter=true&width=305&height=17&lines=Software+Engineer;Web+%7C+Mobile+developer">
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Mobile+%7C+Web+Developer;BSc(Hons)+in+Computing+and+Information+System;Open+to+Internships!" />
+<br><br>
+
+<h1 align="center">🙋‍♂️ About Me</h1>
+
+I'm **Harishhan Chandrakumar** — a passionate student aiming to become a **Fullstack Developer** with a growing interest in **Cybersecurity**.
+
+### 🎓 Currently Studying
+- **BSc (Hons) in Computing and Information Technology**  
+  *Sabaragamuwa University of Sri Lanka*
+- **Bachelor of Information Technology**  
+  *University of Moratuwa*
+
+### 💻 What I Do
+- Build responsive web apps using **React** and **Tailwind CSS**
+- Create backend logic with **Node.js** and **MongoDB**
+- Develop Android apps with **Java**
+- Learn and explore **network security** & **ethical hacking**
+
+### 🚀 My Goal
+To combine fullstack development with cybersecurity, and build secure, modern solutions for the real world.
+
+> *"Let’s build — and protect — the future, one line of code at a time."*
+
+
+
+<br><br><br><br><br>
+
+
+<h1 align="center">⚙️ Tech Stack </h1>
+
+### 🎨 Frontend Development
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&duration=4500&pause=&center=true&vCenter=true&width=485&height=17&lines=Software+Engineer;Web+%7C+Mobile+developer)](https://git.io/typing-svg)
-
 ---
 
-## 👋 About Me
-
-🎓 I'm a dual-degree student pursuing:
-- *BSc (Hons) in Computing and Information Systems* at Sabaragamuwa University of Sri Lanka
-- *Bachelor of Information Technology* at University of Moratuwa
-
-🌱 Passionate about learning and building in:
-- Fullstack Web Development (React, Node.js)
-- Mobile App Development (Java, Flutter)
-- AI & ML (in progress)
-
-💡 Currently working on *MetaFit* – an AI-powered health & wellness platform
-
----
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,firebase,mongodb,python,flutter,html,css,tailwind,figma,git,github" />
+### 🛠️ Backend & Database
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
 </p>
 
 ---
 
-## 💼 Projects
+### 📱 Mobile Development
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=webstorm,vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="tools" />
+</p>
+
+<br><br><br><br>
+
+
+<h1 align="center">💼 Projects</h1>
 
 | Project | Description | Tech Used | Link |
 |--------|-------------|-----------|------|
-| *MetaFit* | AI-based fitness platform with tracking and recommendations | React, Firebase, Node.js | [GitHub Repo](#) |
-| *Word Guessing Game* | Simple Android app for language learners | Java, Android Studio | [GitHub Repo](#) |
-| *YouTube Playlist Organizer* | App to view categorized playlists by topic | React, YouTube API | [GitHub Repo](#) |
+| *MetaFit* | AI-based fitness platform with tracking and recommendations | Html, Css, JS, PHP, MySQL| [GitHub Repo](#) |
+| *Knowedge-app* | An AI-driven website that helps users discover, organize, and access personalized educational content seamlessly.| React, Firebase | [GitHub Repo](#) |
 
 ---
 
-## 🎓 Certifications
-
-- 🏅 Responsive Web Design – freeCodeCamp
-- 🏅 Introduction to Java – Coursera (Duke University)
-- 🏅 Firebase Essentials – Udemy
-(Add more as you complete them)
-
----
-
-## 📘 Education
-
-- *Sabaragamuwa University of Sri Lanka*
-  - BSc (Hons) in Computing and Information Systems
-  - 2022 – 2026 (Expected)
-- *University of Moratuwa*
-  - Bachelor of IT – BIT External
-  - 2022 – Present
-
----
+<br><br><br>
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishihan-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<br><br>
 
 ## 📄 Resume
 
-📄 [Click here to view/download my Resume](https://your-resume-link.com)
 
 ---
-
+<br><br><br>
 ## 🌐 Let's Connect
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:harishihan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harishihan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! I’m open to internship opportunities in Software Development, Web, or Mobile. Let’s connect! ✨</p> -->
+<!--<p align="center">✨ Thank you for visiting my profile! I’m open to internship opportunities in Software Development, Web, or Mobile. Let’s connect! ✨</p> -->
 
 
 
