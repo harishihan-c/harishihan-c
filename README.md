@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFFFF&animation=fadeIn&fontColor=003F91&text=Hey%20I'm%20Harry&stroke=">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Software%20Engineer&fontAlignY=37">
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&reversal=false&textBg=false">
 </p>-->
