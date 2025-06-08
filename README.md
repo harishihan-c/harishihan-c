@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Software%20Engineer&fontAlignY=37">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlignY=37">
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&reversal=false&textBg=false">
 </p>-->
@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Mobile+%7C+Web+Developer;BSc(Hons)+in+Computing+and+Information+System;Open+to+Internships!" />
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&duration=4500&pause=&center=true&vCenter=true&width=485&height=17&lines=Software+Engineer;Web+%7C+Mobile+developer)](https://git.io/typing-svg)
 
 ---
 
