@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient">
-<h3 align="right">Hey Fellas,
+<h3 align="center">Hey Fellas,
 this is Harry
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&duration=4500&pause=&center=true&vCenter=true&width=305&height=17&lines=Software+Engineer;Web+%7C+Mobile+developer">
 </h3>
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&duration=4500&pause=&center=true&vCenter=true&width=305&height=17&lines=Software+Engineer;Web+%7C+Mobile+developer">
+</p>
 
 <br><br>
 
