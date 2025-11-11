@@ -97,7 +97,7 @@ To combine fullstack development with cybersecurity, and build secure, modern so
 <br><br>
 
 ## 📄 Resume
-[**Download Resume**](./Harishihan_CV_SE.pdf)
+[**View Resume**](./Harishihan_CV_SE.pdf)
 
 ---
 <br><br><br>
