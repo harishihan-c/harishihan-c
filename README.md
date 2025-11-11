@@ -79,8 +79,11 @@ To combine fullstack development with cybersecurity, and build secure, modern so
 
 | Project | Description | Tech Used | Link |
 |--------|-------------|-----------|------|
-| *MetaFit* | AI-based fitness platform with tracking and recommendations | Html, Css, JS, PHP, MySQL| [GitHub Repo](#) |
-| *Knowedge-app* | An AI-driven website that helps users discover, organize, and access personalized educational content seamlessly.| React, Firebase | [GitHub Repo](#) |
+| *Authentication System (MERN)* | Full authentication system with user registration, login, logout, JWT-based auth, bcrypt password hashing, email OTP verification, protected routes, and responsive UI. | React, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Nodemailer | [https://github.com/harishihan-c/Authentication-System](#) |
+| *Knowedge-app* | AI-driven website that helps users discover, organize, and access personalized educational content seamlessly. | React, Firebase | [https://github.com/Bhanuka10/Capstone](#) |
+| *ReportEase* | A university issue management system enabling students, faculty, maintenance staff, and administrators to report, track, and resolve issues collaboratively in real time. Features multi-role authentication, issue workflow management, secure uploads, and responsive dashboards. | Laravel 8, PHP 7.3+, MySQL, Bootstrap | [https://github.com/harishihan-c/WAD-Project](#) |
+| *Note App (MERN)* | Full-stack notes application with CRUD features, responsive UI, and cloud deployment. Allows users to create, edit, and manage personal notes easily. | React, Tailwind CSS, Node.js, Express.js, MongoDB | [https://github.com/harishihan-c/Note-Taking-app](#) |
+
 
 ---
 
@@ -94,7 +97,7 @@ To combine fullstack development with cybersecurity, and build secure, modern so
 <br><br>
 
 ## 📄 Resume
-
+[**Download Resume**](./Harishihan_CV_SE.pdf)
 
 ---
 <br><br><br>
